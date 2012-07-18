@@ -3,3 +3,5 @@
 # Ignore cache files
 *.cache
 
+*.sublime-workspace
+
